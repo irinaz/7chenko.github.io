@@ -58,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/timeline.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.64310545" vertical-offset="5325" max-vertical-offset="7725">
-              <caret line="392" column="63" selection-start-line="392" selection-start-column="63" selection-end-line="392" selection-end-column="63" />
+              <caret line="392" column="46" selection-start-line="392" selection-start-column="46" selection-end-line="392" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -392,7 +392,7 @@
     <entry file="file://$PROJECT_DIR$/timeline.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.64310545" vertical-offset="5325" max-vertical-offset="7725">
-          <caret line="392" column="63" selection-start-line="392" selection-start-column="63" selection-end-line="392" selection-end-column="63" />
+          <caret line="392" column="46" selection-start-line="392" selection-start-column="46" selection-end-line="392" selection-end-column="46" />
           <folding />
         </state>
       </provider>
