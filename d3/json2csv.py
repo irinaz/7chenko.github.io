@@ -11,12 +11,13 @@ json_dict = json.loads(my_json)
 #where f is a file object like
 
 f = open("csv.csv", "w")
+f.write("start,end,label\n")
 
 #json_dict is a dictionary of dictionaries representing your json where you can get objects and values like this;
 
 for node in json_dict["nodes"]:
     #print node["node"]["field_event_time"]
 #    for obj in key:
-    f.write(node["node"]["field_event_time"] + "," + node["node"]["field_event_time"] + "," +
+    f.write(node["node"]["field_event_time"] + ",," +
             node["node"]["field_event_type"] + "\n")
 
