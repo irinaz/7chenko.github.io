@@ -390,7 +390,7 @@ function timeline(domElement) {
             .scale(band.xScale)
             .orient(orientation || "bottom")
             .tickSize(6, 0)
-            .tickFormat(function (d) { return toYear(d); });
+            .tickFormat(function (d) { return d; /*toYear(d);*/ });
 
         var xAxis = chart.append("g")
             .attr("class", "axis")
